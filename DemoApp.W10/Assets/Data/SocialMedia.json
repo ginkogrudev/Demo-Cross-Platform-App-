@@ -1,0 +1,16 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Facebook",
+    "Icon": "/Assets/DataImages/facebook-256.png",
+    "Target": "FacebookListPage",
+    "_id": "bc0b3d04-3a08-4559-80d9-a6fe9a1ed632"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Interesting Videos",
+    "Icon": "/Assets/DataImages/logo-3.png",
+    "Target": "InterestingVideosListPage",
+    "_id": "d7610b7e-989b-490a-a13c-84534b80d438"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "MenuType": "DeepLink",
+    "Title": "Home",
+    "Icon": "/Assets/DataImages/bingmaps.png",
+    "Target": "bingmaps:?collection=point.42.4749984741211_26.4990005493164_&lvl=18",
+    "_id": "985038e1-394e-4a77-9caa-247a9ad2a1f3"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Email",
+    "Icon": "/Assets/DataImages/mailto.png",
+    "Target": "mailto:ginko404@gmail.com",
+    "_id": "3afc5dd7-7a04-4608-af69-e06109280ca1"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "GitHub",
+    "Icon": "/Assets/DataImages/github-icon-38970-1.png",
+    "Target": "https://github.com/ginkogrudev",
+    "_id": "c2d2de55-83b8-4a12-95ba-83593843dd46"
+  }
+]
